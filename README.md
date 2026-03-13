@@ -4,7 +4,7 @@ Backend Engineer | Systems Builder | Founder
 
 I build production systems that solve real business problems.
 
-My work focuses on backend architecture, financial systems, ecommerce platforms and automation. I enjoy designing clean domain models, resilient integrations and scalable APIs that translate complex business rules into reliable software.
+My work focuses on backend architecture, financial systems, ecommerce platforms and automation.
 
 Currently working with Java, Spring Boot and PostgreSQL while applying domain-driven design and hexagonal architecture to build maintainable systems.
 
@@ -13,7 +13,7 @@ Currently working with Java, Spring Boot and PostgreSQL while applying domain-dr
 ## Core Stack
 
 ### Backend
-- Java 17
+- Java 17+
 - Spring Boot
 - PostgreSQL
 - REST APIs
@@ -74,7 +74,7 @@ Deposit detection and order execution flows are designed to prevent duplicate fi
 **Outbox Pattern Processing**  
 Financial events are processed using an outbox pattern with scheduled workers to ensure reliable execution.
 
-**Testing First Development**  
+**Test Driven Development**  
 Core financial logic is developed with strong test coverage including:
 
 - unit tests  
@@ -86,7 +86,7 @@ External services are protected using retry, timeout and circuit breaker strateg
 
 ### Tech Stack
 
-- Java 17
+- Java 21
 - Spring Boot
 - PostgreSQL
 - Flyway
@@ -167,7 +167,7 @@ Providing transparent pricing significantly improved customer conversion by allo
 
 ### Tech Stack
 
-- Java
+- Java 19
 - Spring Boot
 - PostgreSQL
 - REST APIs
@@ -191,3 +191,5 @@ Main areas of interest:
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jpromano-swe)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpromano-swe)](https://github.com/jpromano-swe/github-readme-stats)
